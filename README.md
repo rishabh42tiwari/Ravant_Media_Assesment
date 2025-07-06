@@ -6,7 +6,7 @@ This project demonstrates how to process a large number of tasks (e.g., file ope
 
 ---
 
-## 💡 Real-world context
+## Real-world context
 
 In a production batch job I worked on:
 

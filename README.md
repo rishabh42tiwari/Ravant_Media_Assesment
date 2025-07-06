@@ -1,6 +1,6 @@
 # Ravant_Media_Assesment
 
-# Concurrency in Golang
+# 1. Concurrency in Golang
 
 This project demonstrates how to process a large number of tasks (e.g., file operations) efficiently using **Golang concurrency patterns** — specifically **Goroutines**, **Channels**, and a **Worker Pool**.
 

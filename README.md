@@ -156,7 +156,7 @@ The architecture is built to remain stable under service failures or network iss
 - **Cache**: Redis
 - **Concurrency**: Goroutines, Worker Pools
 - **Rate Limiting**: Redis or Go `rate` package
-- **Monitoring (Optional)**: Prometheus, Grafana
-- **Queue (Optional)**: NATS, RabbitMQ, or Kafka
+<!-- - **Monitoring (Optional)**: Prometheus, Grafana
+- **Queue (Optional)**: NATS, RabbitMQ, or Kafka -->
 
 ---

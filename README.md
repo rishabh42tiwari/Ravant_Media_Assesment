@@ -51,7 +51,7 @@ For storing time-series-like data, MongoDB works well due to its flexible schema
 
 ### Schema Example
 
-```json
+json
 {
   "deviceId": "abc-123",
   "A": 15,
